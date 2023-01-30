@@ -1,0 +1,15 @@
+{
+  "customer": {
+    "customer-firstname": "Gale",
+    "customer-lastname": "Terri",
+    "customer-email": "Donnie@gmail.com"
+  },
+  "orderinfo": {
+    "product-name": "Iphone 13 Pro Max",
+    "shipping": 30,
+    "unitprice": 100,
+    "quantity": 2,
+    "totaltax": 25,
+    "discount": 10
+  }
+}
